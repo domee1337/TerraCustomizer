@@ -5,7 +5,7 @@
         {
         "label": "TerraCustomizer",
         "menu": "start",
-        "urlKey": "TerraCustomizer",
+        "urlKey": "customizer",
         "entryPoint": "index.html"
         }
     ]
