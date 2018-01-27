@@ -1,0 +1,8 @@
+{
+      "name":"TerraCustomizer",
+      "description":"",
+      "namespace":"TerraCustomizer",
+      "author":"Dominik Jödecke",
+      "type":"backend",
+      "serviceProvider":"TerraCustomizer\\Providers\\TerraCustomizerServiceProvider"
+}

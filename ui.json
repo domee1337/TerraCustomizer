@@ -1,0 +1,12 @@
+{
+    "defaultEntryPoint": "index.html",
+    "namespace": "TerraCustomizer",
+    "menuEntries": [
+        {
+        "label": "TerraCustomizer",
+        "menu": "start",
+        "urlKey": "TerraCustomizer",
+        "entryPoint": "index.html"
+        }
+    ]
+}
